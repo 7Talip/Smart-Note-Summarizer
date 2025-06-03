@@ -30,6 +30,7 @@ Everything runs on **OpenAI GPT-3.5** in a user-friendly Gradio interface.
 - **Auto-Translation:** Summarize in any target language, even if source differs
 - **Error Handling:** Explains if PDF/text couldn't be read or summarized
 
+<img src="demo_screenshot.png" alt="App Screenshot" width="600"/>
 ---
 
 ## 📝 How To Use

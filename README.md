@@ -1,5 +1,5 @@
 # 📚 Smart-Note-Summarizer
-#🧠 Multilingual Smart Note Summarizer with GPT-3.5
+🧠 Multilingual Smart Note Summarizer with GPT-3.5
 
 **Live Demo:** [Try it on Hugging Face Spaces](https://huggingface.co/spaces/Talip7/smart_note_summarizer)  
 **Author:** [Talip7](https://huggingface.co/Talip7)
